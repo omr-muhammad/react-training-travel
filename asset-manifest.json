@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-training-travel/static/css/main.f2ae8484.css",
+    "main.js": "/react-training-travel/static/js/main.ca20bee0.js",
+    "index.html": "/react-training-travel/index.html",
+    "main.f2ae8484.css.map": "/react-training-travel/static/css/main.f2ae8484.css.map",
+    "main.ca20bee0.js.map": "/react-training-travel/static/js/main.ca20bee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ae8484.css",
+    "static/js/main.ca20bee0.js"
+  ]
+}
